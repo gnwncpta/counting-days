@@ -1,1 +1,9 @@
-# counting-days
+# Counting Days
+
+Live Web:
+
+...
+
+Tech Stack:
+
+JS
